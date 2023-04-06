@@ -4,10 +4,10 @@
 
 - 🔭 Most of my experience has involved working with public sector clients utilising GDS Framework in both the UK & NI Gov including:
 
-      ⚫ Department for Education - UK
-      ⚫ Department for Communities - NI
+      ⚫ Department for Education - Apprenticeships Service Project - UK
+      ⚫ Department for Communities - Claims Form Project - NI
       ⚫ Construction Industry Training Board (CITB) - UK
-      ⚫ NI Direct - Driver & Vehicle Agency (DVA)
+      ⚫ NI Direct - Driver & Vehicle Agency (DVA) - Booking & Rostering Project
       
  - 🌱 I enjoy developing frameworks in my spare time that are generic enough to be plugged into different projects in order to hit the ground running, with the view to then of course customise these frameworks depending on the project that I am on. 
 I have also been on projects where I've inherited frameworks and made them better, it just very much depends on the project - but I do find it a bit more interesting when I create a fresh framework from the ground up. 
