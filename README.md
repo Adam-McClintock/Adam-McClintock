@@ -5,7 +5,7 @@
 - 🔭 Most of my experience has involved working with public sector clients utilising GDS Framework in both the UK & NI Gov including:
 
       ⚫ Department for Education - Apprenticeships Service Project - UK
-      ⚫ Department for Communities - Claims Form Project - NI
+      ⚫ Department for Finance/Communities - Finance Support Project - NI
       ⚫ Construction Industry Training Board (CITB) - UK
       ⚫ NI Direct - Driver & Vehicle Agency (DVA) - Booking & Rostering Project
       
