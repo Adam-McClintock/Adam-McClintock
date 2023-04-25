@@ -14,7 +14,5 @@ I have also been on projects where I've inherited frameworks and made them bette
 
 - 🤔 I'm always looking to learn and develop my skills so you are very much welcome to contribute to any of my public frameworks in order to make positive improvements on them. 
 
-- 📫 How to reach me: For any queries you can reach me on my personal email address: adammcclintock@live.co.uk or my LinkedIn: https://www.linkedin.com/in/adam-m-79a129a7/
-
 
 
